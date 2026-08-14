@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 3rd-year Software Engineering student  
+- 🎓 4rd-year Software Engineering student  
 - 💻 Working with Java, Python, and C++ in backend and robotics projects  
 - 🤖 Experienced with ROS 2 and Gazebo simulations on Ubuntu  
 - 📊 Building database-driven applications with PostgreSQL and MySQL  
