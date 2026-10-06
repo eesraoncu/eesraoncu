@@ -10,7 +10,7 @@
   <a href="https://eesraoncu.github.io/cv-portfolio/"><img src="https://img.shields.io/badge/Portfolio-1f3a68?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/eesraoncu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eesraoncu@gmail.com"><img src="https://img.shields.io/badge/Email-eesraoncu%40gmail.com-1f3a68?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=eesraoncu&label=Profile%20views&color=1f3a68&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eesraoncu.eesraoncu&left_text=Profile%20views&left_color=%23555555&right_color=%231f3a68" alt="Profile views" />
 </p>
 
 ---
