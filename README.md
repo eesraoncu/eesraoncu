@@ -18,11 +18,12 @@
 
 ### About me
 
-- 4th-year Software Engineering student at **Burdur Mehmet Akif Ersoy University** (2023 – 2027)
-- **Erasmus+** exchange semester at **Bialystok University of Technology**, Poland — Computer Science, taught in English, GPA 4.0 / 4.0
-- Two software engineering internships at **BTK** (Information and Communication Technologies Authority of Türkiye), building backend services with Java, Spring Boot and PostgreSQL
-- Led the software team of **ORINIUM** in the TEKNOFEST Unmanned Ground Vehicle competition, working on ROS 2, Nav2, path planning and perception
-- **TEKNOFEST finalist** with a Hyperledger-based blockchain cold chain tracking system
+4th-year Software Engineering student at **Burdur Mehmet Akif Ersoy University**, with an **Erasmus+** semester at Bialystok University of Technology, Poland. These days I am mostly focused on:
+
+- **Embedded systems** — Raspberry Pi, GPIO and sensors, real-time systems with FreeRTOS
+- **Autonomous navigation and mapping** — costmaps, path planning and path tracking with ROS 2 and Nav2
+- **Perception and computer vision** — object detection with YOLO and RGB-D cameras, OpenCV, MediaPipe
+- **Backend development** — RESTful services with Java, Spring Boot and PostgreSQL
 
 ### Featured projects
 

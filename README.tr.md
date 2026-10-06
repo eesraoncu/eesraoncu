@@ -18,11 +18,12 @@
 
 ### Hakkımda
 
-- **Burdur Mehmet Akif Ersoy Üniversitesi** Yazılım Mühendisliği 4. sınıf öğrencisiyim (2023 – 2027)
-- **Erasmus+** değişim dönemimi Polonya'da **Politechnika Białostocka**'da Bilgisayar Bilimleri bölümünde, İngilizce eğitimle tamamladım — GPA 4.0 / 4.0
-- **BTK**'da (Bilgi Teknolojileri ve İletişim Kurumu) iki yazılım mühendisliği stajı yaptım; Java, Spring Boot ve PostgreSQL ile backend servisleri geliştirdim
-- TEKNOFEST İnsansız Kara Aracı yarışmasında **ORINIUM** takımının yazılım ekibi lideri olarak ROS 2, Nav2, rota planlama ve algılama üzerinde çalıştım
-- Hyperledger tabanlı blokzincir soğuk zincir takip sistemiyle **TEKNOFEST finalisti** oldum
+**Burdur Mehmet Akif Ersoy Üniversitesi** Yazılım Mühendisliği 4. sınıf öğrencisiyim; bir dönemimi **Erasmus+** ile Polonya'da Politechnika Białostocka'da geçirdim. Şu sıralar en çok ilgilendiğim alanlar:
+
+- **Gömülü sistemler** — Raspberry Pi, GPIO ve sensörler, FreeRTOS ile gerçek zamanlı sistemler
+- **Otonom navigasyon ve haritalama** — ROS 2 ve Nav2 ile costmap, rota planlama ve yol takibi
+- **Algılama ve bilgisayarlı görü** — YOLO ve RGB-D kamerayla nesne algılama, OpenCV, MediaPipe
+- **Backend geliştirme** — Java, Spring Boot ve PostgreSQL ile RESTful servisler
 
 ### Öne çıkan projeler
 
