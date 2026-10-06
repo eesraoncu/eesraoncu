@@ -18,10 +18,10 @@
 
 ### About me
 
-4th-year Software Engineering student at **Burdur Mehmet Akif Ersoy University**, with an **Erasmus+** semester at Bialystok University of Technology, Poland. These days I am mostly focused on:
+4th-year Software Engineering student at **Burdur Mehmet Akif Ersoy University**, who completed an **Erasmus+** exchange semester at Bialystok University of Technology, Poland (Feb – Jul 2026). These days I am mostly focused on:
 
 - **Embedded systems** — Raspberry Pi, GPIO and sensors, real-time systems with FreeRTOS
-- **Autonomous navigation and mapping** — costmaps, path planning and path tracking with ROS 2 and Nav2
+- **Autonomous navigation and mapping** — visual SLAM (vSLAM), costmaps, path planning and path tracking with ROS 2 and Nav2
 - **Perception and computer vision** — object detection with YOLO and RGB-D cameras, OpenCV, MediaPipe
 - **Backend development** — RESTful services with Java, Spring Boot and PostgreSQL
 

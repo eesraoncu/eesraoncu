@@ -18,10 +18,10 @@
 
 ### Hakkımda
 
-**Burdur Mehmet Akif Ersoy Üniversitesi** Yazılım Mühendisliği 4. sınıf öğrencisiyim; bir dönemimi **Erasmus+** ile Polonya'da Politechnika Białostocka'da geçirdim. Şu sıralar en çok ilgilendiğim alanlar:
+**Burdur Mehmet Akif Ersoy Üniversitesi** Yazılım Mühendisliği 4. sınıf öğrencisiyim; Şubat – Temmuz 2026'da Polonya'daki Politechnika Białostocka'da **Erasmus+** değişim dönemimi tamamladım. Şu sıralar en çok ilgilendiğim alanlar:
 
 - **Gömülü sistemler** — Raspberry Pi, GPIO ve sensörler, FreeRTOS ile gerçek zamanlı sistemler
-- **Otonom navigasyon ve haritalama** — ROS 2 ve Nav2 ile costmap, rota planlama ve yol takibi
+- **Otonom navigasyon ve haritalama** — görsel SLAM (vSLAM), ROS 2 ve Nav2 ile costmap, rota planlama ve yol takibi
 - **Algılama ve bilgisayarlı görü** — YOLO ve RGB-D kamerayla nesne algılama, OpenCV, MediaPipe
 - **Backend geliştirme** — Java, Spring Boot ve PostgreSQL ile RESTful servisler
 
