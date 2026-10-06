@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/eesraoncu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eesraoncu@gmail.com"><img src="https://img.shields.io/badge/E--posta-eesraoncu%40gmail.com-1f3a68?style=flat&logo=gmail&logoColor=white" alt="E-posta" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eesraoncu.eesraoncu&left_text=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&left_color=%23555555&right_color=%231f3a68" alt="Profil görüntülenme" />
+  <a href="https://wakatime.com/@7a04e59e-d54c-4b9c-ae32-f1d2f8d6e1ec"><img src="https://wakatime.com/badge/user/7a04e59e-d54c-4b9c-ae32-f1d2f8d6e1ec.svg" alt="Kodlama süresi" /></a>
 </p>
 
 ---
