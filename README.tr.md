@@ -37,7 +37,7 @@ Diğer projeler ve ayrıntılar: **[eesraoncu.github.io/cv-portfolio](https://ee
 
 ### Deneyim
 
-- **Yazılım Ekibi Lideri — ORINIUM** (TEKNOFEST İnsansız Kara Aracı) · 2026  
+- **Yazılım Ekibi Lideri — ORINIUM** (TEKNOFEST İnsansız Kara Aracı) · Nisan 2026 – Ağustos 2026  
   Otonom sürüş yazılımını geliştiren yazılım ekibine liderlik ettim: rota planlama, haritalama, algılama ve Nav2 entegrasyonu.
 - **Yazılım Mühendisliği Stajyeri — BTK**, Ankara · Temmuz 2026 – Ağustos 2026  
   Karmaşık iş mantığına sahip bağımsız modüller ve API entegrasyonları, veritabanı performans iyileştirmeleri ve sorgu optimizasyonu, birim ve entegrasyon testleri.

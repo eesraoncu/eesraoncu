@@ -37,7 +37,7 @@ More projects and details: **[eesraoncu.github.io/cv-portfolio](https://eesraonc
 
 ### Experience
 
-- **Software Team Lead — ORINIUM** (TEKNOFEST Unmanned Ground Vehicle) · 2026  
+- **Software Team Lead — ORINIUM** (TEKNOFEST Unmanned Ground Vehicle) · Apr 2026 – Aug 2026  
   Led the software team building the autonomous driving stack: path planning, mapping, perception and Nav2 integration.
 - **Software Engineering Intern — BTK**, Ankara · Jul 2026 – Aug 2026  
   Independent modules with complex business logic and API integrations, database performance tuning and query optimization, unit and integration tests.
