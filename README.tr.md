@@ -3,7 +3,7 @@
 <h1 align="center">Esra Öncü</h1>
 
 <p align="center">
-  Yazılım Mühendisliği öğrencisi · Backend geliştirme, otonom sistemler ve blokzincir
+  Yazılım Mühendisliği öğrencisi · Backend geliştirme, otonom sistemler
 </p>
 
 <p align="center">
