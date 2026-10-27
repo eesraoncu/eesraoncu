@@ -3,7 +3,7 @@
 <h1 align="center">Esra Öncü</h1>
 
 <p align="center">
-  Software Engineering student · Backend development, autonomous systems and blockchain
+  Software Engineering student · Backend development, autonomous systems
 </p>
 
 <p align="center">
